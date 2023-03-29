@@ -17,3 +17,5 @@ cv2.imshow('dst2',dst2)
 # 마무리 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+### 테스트 코
